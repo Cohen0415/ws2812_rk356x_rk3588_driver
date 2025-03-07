@@ -1,3 +1,7 @@
+**Language:**
+- [中文](README.md)
+- [English](README_en.md)
+
 # WS2812 Driver
 1. This is a WS2812 driver for RK356x and RK3588 platforms. The driver controls the LED by manipulating the timing of signal level changes to achieve the desired delays.
 2. This control method has a limitation: if the control frequency is too high, the LED may flicker erratically.
